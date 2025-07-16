@@ -26,3 +26,17 @@
 /Users/rob/Desktop/react-c#/reactivites/Persistence/obj/Debug/net9.0/refint/Persistence.dll
 /Users/rob/Desktop/react-c#/reactivites/Persistence/obj/Debug/net9.0/Persistence.pdb
 /Users/rob/Desktop/react-c#/reactivites/Persistence/obj/Debug/net9.0/ref/Persistence.dll
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/bin/Debug/net9.0/Persistence.deps.json
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/bin/Debug/net9.0/Persistence.dll
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/bin/Debug/net9.0/Persistence.pdb
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/bin/Debug/net9.0/Domain.dll
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/bin/Debug/net9.0/Domain.pdb
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/obj/Debug/net9.0/Persistence.csproj.AssemblyReference.cache
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/obj/Debug/net9.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/obj/Debug/net9.0/Persiste.61C28332.Up2Date
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/obj/Debug/net9.0/Persistence.dll
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/obj/Debug/net9.0/refint/Persistence.dll
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/obj/Debug/net9.0/Persistence.pdb
+/Users/rob/Desktop/react-csharp/reactivites/Persistence/obj/Debug/net9.0/ref/Persistence.dll

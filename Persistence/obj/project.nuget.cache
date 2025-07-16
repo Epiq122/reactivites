@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MqHZFtKE76w=",
+  "dgSpecHash": "g6isWLFo3oE=",
   "success": true,
-  "projectFilePath": "/Users/rob/Desktop/react-c#/reactivites/Persistence/Persistence.csproj",
+  "projectFilePath": "/Users/rob/Desktop/react-csharp/reactivites/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/rob/.nuget/packages/microsoft.data.sqlite.core/9.0.0/microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
     "/Users/rob/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",

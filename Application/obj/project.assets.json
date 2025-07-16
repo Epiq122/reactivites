@@ -1153,11 +1153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rob/Desktop/react-c#/reactivites/Application/Application.csproj",
+      "projectUniqueName": "/Users/rob/Desktop/react-csharp/reactivites/Application/Application.csproj",
       "projectName": "Application",
-      "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Application/Application.csproj",
+      "projectPath": "/Users/rob/Desktop/react-csharp/reactivites/Application/Application.csproj",
       "packagesPath": "/Users/rob/.nuget/packages/",
-      "outputPath": "/Users/rob/Desktop/react-c#/reactivites/Application/obj/",
+      "outputPath": "/Users/rob/Desktop/react-csharp/reactivites/Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rob/.nuget/NuGet/NuGet.Config"
@@ -1172,11 +1172,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj": {
-              "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj"
+            "/Users/rob/Desktop/react-csharp/reactivites/Domain/Domain.csproj": {
+              "projectPath": "/Users/rob/Desktop/react-csharp/reactivites/Domain/Domain.csproj"
             },
-            "/Users/rob/Desktop/react-c#/reactivites/Persistence/Persistence.csproj": {
-              "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Persistence/Persistence.csproj"
+            "/Users/rob/Desktop/react-csharp/reactivites/Persistence/Persistence.csproj": {
+              "projectPath": "/Users/rob/Desktop/react-csharp/reactivites/Persistence/Persistence.csproj"
             }
           }
         }
