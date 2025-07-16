@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4YH6z83PEk=",
+  "dgSpecHash": "y9IkJW+A+w8=",
   "success": true,
   "projectFilePath": "/Users/rob/Desktop/react-c#/reactivites/API/API.csproj",
-  "expectedPackageFiles": [
-    "/Users/rob/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
-    "/Users/rob/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
