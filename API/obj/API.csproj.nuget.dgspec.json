@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/rob/Desktop/react-c#/reactivites/API/Application/Application.csproj": {
-                "projectPath": "/Users/rob/Desktop/react-c#/reactivites/API/Application/Application.csproj"
+              "/Users/rob/Desktop/react-c#/reactivites/Application/Application.csproj": {
+                "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Application/Application.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "/Users/rob/Desktop/react-c#/reactivites/API/Application/Application.csproj": {
+    "/Users/rob/Desktop/react-c#/reactivites/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rob/Desktop/react-c#/reactivites/API/Application/Application.csproj",
+        "projectUniqueName": "/Users/rob/Desktop/react-c#/reactivites/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/rob/Desktop/react-c#/reactivites/API/Application/Application.csproj",
+        "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Application/Application.csproj",
         "packagesPath": "/Users/rob/.nuget/packages/",
-        "outputPath": "/Users/rob/Desktop/react-c#/reactivites/API/Application/obj/",
+        "outputPath": "/Users/rob/Desktop/react-c#/reactivites/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rob/.nuget/NuGet/NuGet.Config"
@@ -100,11 +100,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/rob/Desktop/react-c#/reactivites/API/Domain/Domain.csproj": {
-                "projectPath": "/Users/rob/Desktop/react-c#/reactivites/API/Domain/Domain.csproj"
+              "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj": {
+                "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj"
               },
-              "/Users/rob/Desktop/react-c#/reactivites/API/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/rob/Desktop/react-c#/reactivites/API/Persistence/Persistence.csproj"
+              "/Users/rob/Desktop/react-c#/reactivites/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Persistence/Persistence.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "/Users/rob/Desktop/react-c#/reactivites/API/Domain/Domain.csproj": {
+    "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rob/Desktop/react-c#/reactivites/API/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/rob/Desktop/react-c#/reactivites/API/Domain/Domain.csproj",
+        "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj",
         "packagesPath": "/Users/rob/.nuget/packages/",
-        "outputPath": "/Users/rob/Desktop/react-c#/reactivites/API/Domain/obj/",
+        "outputPath": "/Users/rob/Desktop/react-c#/reactivites/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rob/.nuget/NuGet/NuGet.Config"
@@ -203,14 +203,14 @@
         }
       }
     },
-    "/Users/rob/Desktop/react-c#/reactivites/API/Persistence/Persistence.csproj": {
+    "/Users/rob/Desktop/react-c#/reactivites/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rob/Desktop/react-c#/reactivites/API/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/rob/Desktop/react-c#/reactivites/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/rob/Desktop/react-c#/reactivites/API/Persistence/Persistence.csproj",
+        "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Persistence/Persistence.csproj",
         "packagesPath": "/Users/rob/.nuget/packages/",
-        "outputPath": "/Users/rob/Desktop/react-c#/reactivites/API/Persistence/obj/",
+        "outputPath": "/Users/rob/Desktop/react-c#/reactivites/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rob/.nuget/NuGet/NuGet.Config"
@@ -225,8 +225,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/rob/Desktop/react-c#/reactivites/API/Domain/Domain.csproj": {
-                "projectPath": "/Users/rob/Desktop/react-c#/reactivites/API/Domain/Domain.csproj"
+              "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj": {
+                "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj"
               }
             }
           }
@@ -249,7 +249,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[9.0.7, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
