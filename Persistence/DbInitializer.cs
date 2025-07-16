@@ -25,8 +25,8 @@ public class DbInitializer
             },
             new()
             {
-                Title = "Past Activity 2",
-                Date = DateTime.Now.AddMonths(-1),
+                Date = DateTime.Now.AddMonths(-1),                Title = "Past Activity 2",
+
                 Description = "Activity 1 month ago",
                 Category = "culture",
                 City = "Paris",
