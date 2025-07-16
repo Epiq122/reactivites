@@ -57,3 +57,8 @@ Migrations/
 
 # Logs
 *.log
+
+# Ignore local SQLite database files
+*.db
+*.db-shm
+*.db-wal
