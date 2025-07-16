@@ -815,3 +815,22 @@ Migrations/
 *.db
 *.db-shm
 *.db-wal
+reactivites.db
+reactivites.db-shm
+reactivites.db-wal
+
+# Build results
+bin/
+obj/
+
+# Rider
+.idea/
+*.sourcelink.json
+*.AssemblyReference.cache
+*.project.model.nuget.info
+*.project.restore.info
+
+# Database
+*.db
+*.db-shm
+*.db-wal
