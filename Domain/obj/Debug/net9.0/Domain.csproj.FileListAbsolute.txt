@@ -18,3 +18,13 @@
 /Users/rob/Desktop/react-c#/reactivites/Domain/obj/Debug/net9.0/refint/Domain.dll
 /Users/rob/Desktop/react-c#/reactivites/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/rob/Desktop/react-c#/reactivites/Domain/obj/Debug/net9.0/ref/Domain.dll
+/Users/rob/Desktop/react-csharp/reactivites/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/rob/Desktop/react-csharp/reactivites/Domain/bin/Debug/net9.0/Domain.dll
+/Users/rob/Desktop/react-csharp/reactivites/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/rob/Desktop/react-csharp/reactivites/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Desktop/react-csharp/reactivites/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rob/Desktop/react-csharp/reactivites/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/Users/rob/Desktop/react-csharp/reactivites/Domain/obj/Debug/net9.0/Domain.dll
+/Users/rob/Desktop/react-csharp/reactivites/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/rob/Desktop/react-csharp/reactivites/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/rob/Desktop/react-csharp/reactivites/Domain/obj/Debug/net9.0/ref/Domain.dll

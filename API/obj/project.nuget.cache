@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YMPkGCUL9/w=",
+  "dgSpecHash": "de552DGXK20=",
   "success": true,
-  "projectFilePath": "/Users/rob/Desktop/react-c#/reactivites/API/API.csproj",
+  "projectFilePath": "/Users/rob/Desktop/react-csharp/reactivites/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/rob/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/rob/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

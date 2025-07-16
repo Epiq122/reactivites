@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/rob/Desktop/react-csharp/reactivites/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/rob/Desktop/react-c#/reactivites/Domain/Domain.csproj",
+      "projectPath": "/Users/rob/Desktop/react-csharp/reactivites/Domain/Domain.csproj",
       "packagesPath": "/Users/rob/.nuget/packages/",
-      "outputPath": "/Users/rob/Desktop/react-c#/reactivites/Domain/obj/",
+      "outputPath": "/Users/rob/Desktop/react-csharp/reactivites/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rob/.nuget/NuGet/NuGet.Config"

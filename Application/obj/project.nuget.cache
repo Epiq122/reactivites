@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YDvEmLbvWII=",
+  "dgSpecHash": "mTQY4TCC0WI=",
   "success": true,
-  "projectFilePath": "/Users/rob/Desktop/react-c#/reactivites/Application/Application.csproj",
+  "projectFilePath": "/Users/rob/Desktop/react-csharp/reactivites/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/rob/.nuget/packages/microsoft.data.sqlite.core/9.0.0/microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
     "/Users/rob/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",

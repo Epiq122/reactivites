@@ -775,3 +775,43 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/
 
+# Build output
+bin/
+obj/
+*.db
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# JetBrains Rider/IntelliJ
+.idea/
+*.sln.iml
+
+# ASP.NET
+appsettings.Development.json
+
+# EF Core Migrations Snapshots
+Migrations/
+
+# Rider-specific caches
+.idea/
+
+# SQLite/Local DB
+*.db
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+
+# Ignore local SQLite database files
+*.db
+*.db-shm
+*.db-wal
